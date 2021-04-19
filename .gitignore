@@ -1,0 +1,6 @@
+.env
+.eslintrc
+./routes/Video_
+./app_
+.DS_Store
+node_modules

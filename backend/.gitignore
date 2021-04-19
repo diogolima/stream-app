@@ -1,0 +1,7 @@
+.env
+.eslintrc
+Video_*
+app_*
+./app_
+.DS_Store
+node_modules
